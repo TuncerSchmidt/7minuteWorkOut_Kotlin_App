@@ -6,6 +6,8 @@
         <entry key="app/src/main/res/drawable/activity_finish.xml" value="0.1675" />
         <entry key="app/src/main/res/drawable/circular_progress_bar.xml" value="0.1695" />
         <entry key="app/src/main/res/drawable/circular_progress_gray.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/drawable_radid_grup_tab_background.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/drawable_units_tab_selector.xml" value="0.1085" />
         <entry key="app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.1445" />
         <entry key="app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.1555" />
         <entry key="app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.1475" />
@@ -14,9 +16,11 @@
         <entry key="app/src/main/res/layout/activity_bmi.xml" value="0.23802083333333332" />
         <entry key="app/src/main/res/layout/activity_exercise.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_finish.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_history.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23435897435897435" />
         <entry key="app/src/main/res/layout/dialog_custom_back_confirmation.xml" value="0.23802083333333332" />
         <entry key="app/src/main/res/layout/item_exercise_status.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/item_history_row.xml" value="0.23802083333333332" />
       </map>
     </option>
   </component>
